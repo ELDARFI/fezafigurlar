@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\Task eve 11.exe
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\Task eve 11.deps.json
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\Task eve 11.runtimeconfig.json
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\Task eve 11.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\Task eve 11.dll
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\ref\Task eve 11.dll
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\bin\Debug\net5.0\Task eve 11.pdb
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.dll
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\ref\Task eve 11.dll
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.pdb
+C:\Users\ASUS\source\repos\Task eve 11\Task eve 11\obj\Debug\net5.0\Task eve 11.genruntimeconfig.cache
